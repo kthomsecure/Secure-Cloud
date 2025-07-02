@@ -71,4 +71,4 @@ Install and configure osTicket on a Windows Server VM in Azure using IIS, PHP, a
 
 Kevin Thomas  
 Technology Support Specialist | Security+ Certified  
-GitHub: [@kevinthomas824](https://github.com/kevinthomas824)  
+GitHub: [@kthomsecure)  
